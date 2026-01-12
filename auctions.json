@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-12 03:20 AM",
+  "last_updated": "2026-01-12 03:25 AM",
   "total_auctions": 24,
   "sources": {
     "Bar None Auction": 4,
     "Vantage Auctions": 2,
-    "Western Construction Auctions": 1,
     "The Auction Company": 3,
+    "Western Construction Auctions": 1,
     "Ritchie Bros": 14
   },
   "auctions": [
