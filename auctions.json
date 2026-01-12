@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-12 04:18 AM",
-  "total_auctions": 28,
+  "last_updated": "2026-01-12 04:24 AM",
+  "total_auctions": 24,
   "sources": {
-    "Western Construction Auctions": 1,
+    "Bar None Auction": 4,
     "The Auction Company": 3,
     "Ritchie Bros": 14,
     "Vantage Auctions": 2,
-    "Bar None Auction": 8
+    "Western Construction Auctions": 1
   },
   "auctions": [
     {
@@ -15,13 +15,6 @@
       "location": "Lake Elsinore, CA",
       "link": "https://www.proxibid.com/Vantage-Auctions/auction-house/10681",
       "source": "Vantage Auctions"
-    },
-    {
-      "title": "Bar None Auction - Fontana, California",
-      "date": "JANUARY 16, 2026",
-      "location": "Fontana, California",
-      "link": "https://barnoneauction.com/fontana-equipment-auction-january-2026/",
-      "source": "Bar None Auction"
     },
     {
       "title": "Bar None Auction - Fontana, California",
@@ -71,13 +64,6 @@
       "source": "Bar None Auction"
     },
     {
-      "title": "Bar None Auction - Sacramento, California",
-      "date": "FEBRUARY 14, 2026",
-      "location": "Sacramento, California",
-      "link": "https://barnoneauction.com/sacramento-equipment-auction-february-2026/",
-      "source": "Bar None Auction"
-    },
-    {
       "title": "California Regional Dealer Dismantler Event, USA",
       "date": "Feb 16",
       "location": "Dunnigan, CA",
@@ -85,13 +71,6 @@
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026132",
       "source": "Ritchie Bros"
-    },
-    {
-      "title": "Bar None Auction - Fontana, California",
-      "date": "FEBRUARY 20, 2026",
-      "location": "Fontana, California",
-      "link": "https://barnoneauction.com/fontana-equipment-auction-february-2026/",
-      "source": "Bar None Auction"
     },
     {
       "title": "Bar None Auction - Fontana, California",
@@ -137,13 +116,6 @@
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-2026134",
       "source": "Ritchie Bros"
-    },
-    {
-      "title": "Bar None Auction - Sacramento, California",
-      "date": "MARCH 14, 2026",
-      "location": "Sacramento, California",
-      "link": "https://barnoneauction.com/sacramento-equipment-auction-march-2026/",
-      "source": "Bar None Auction"
     },
     {
       "title": "Bar None Auction - Sacramento, California",
