@@ -1,43 +1,23 @@
 {
-  "last_updated": "2026-01-12 04:50 AM",
-  "total_auctions": 24,
+  "last_updated": "2026-01-24 02:52 AM",
+  "total_auctions": 20,
   "sources": {
-    "Ritchie Bros": 14,
-    "The Auction Company": 3,
-    "Vantage Auctions": 2,
-    "Bar None Auction": 4,
-    "Western Construction Auctions": 1
+    "Vantage Auctions": 0,
+    "Bar None Auction": 0,
+    "Western Construction Auctions": 1,
+    "The Auction Company": 5,
+    "Ritchie Bros": 14
   },
   "auctions": [
     {
-      "title": "Vantage Auctions - Land Auction",
-      "date": "Jan 13-27, 2026",
-      "location": "Lake Elsinore, CA",
-      "link": "https://www.proxibid.com/Vantage-Auctions/auction-house/10681",
-      "source": "Vantage Auctions"
-    },
-    {
-      "title": "Bar None Auction - Fontana, California",
-      "date": "JANUARY 16, 2026",
-      "location": "Fontana, California",
-      "link": "https://barnoneauction.com/fontana-equipment-auction-january-2026/",
-      "source": "Bar None Auction"
-    },
-    {
-      "title": "World of Concrete CIM Charity Auction, NV, USA",
-      "date": "Jan 21",
-      "location": "Las Vegas, NV",
-      "items": "22 Items",
-      "type": "Live",
-      "link": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-2026901",
-      "source": "Ritchie Bros"
-    },
-    {
-      "title": "Vantage Auctions - Equipment Auction",
-      "date": "Saturday, Jan 24, 2026",
-      "location": "Lake Elsinore, CA",
-      "link": "https://vantageauctions.com/auctions/",
-      "source": "Vantage Auctions"
+      "sale_no": "2621",
+      "title": "Equipment Auction (Ring 2)",
+      "date": "01/12/2026 11:45 AM PST",
+      "location": "Location TBD",
+      "status": "N/A",
+      "lots": "0",
+      "link": "https://bid.theauctioncompany.net/auctions/catalog/id/334",
+      "source": "The Auction Company"
     },
     {
       "title": "Western Construction Auctions Public Auction",
@@ -49,35 +29,21 @@
     },
     {
       "title": "California Regional Event, USA",
-      "date": "Feb 12 - Feb 13",
+      "date": "Feb 12 - Feb 14",
       "location": "Dunnigan, CA",
-      "items": "4,841 Items",
+      "items": "5,945 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026104",
       "source": "Ritchie Bros"
     },
     {
-      "title": "Bar None Auction - Sacramento, California",
-      "date": "FEBRUARY 14, 2026",
-      "location": "Sacramento, California",
-      "link": "https://barnoneauction.com/sacramento-equipment-auction-february-2026/",
-      "source": "Bar None Auction"
-    },
-    {
       "title": "California Regional Dealer Dismantler Event, USA",
       "date": "Feb 16",
       "location": "Dunnigan, CA",
-      "items": "53 Items",
+      "items": "78 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026132",
       "source": "Ritchie Bros"
-    },
-    {
-      "title": "Bar None Auction - Fontana, California",
-      "date": "FEBRUARY 20, 2026",
-      "location": "Fontana, California",
-      "link": "https://barnoneauction.com/fontana-equipment-auction-february-2026/",
-      "source": "Bar None Auction"
     },
     {
       "sale_no": "261",
@@ -85,7 +51,7 @@
       "date": "02/21/2026 09:00 AM PST",
       "location": "Colton, CA",
       "status": "Upcoming",
-      "lots": "89",
+      "lots": "227",
       "link": "https://bid.theauctioncompany.net/auctions/catalog/id/331",
       "source": "The Auction Company"
     },
@@ -95,7 +61,7 @@
       "date": "02/23/2026 09:00 AM PST",
       "location": "Colton, CA",
       "status": "N/A",
-      "lots": "0",
+      "lots": "190",
       "link": "https://bid.theauctioncompany.net/auctions/catalog/id/332",
       "source": "The Auction Company"
     },
@@ -103,7 +69,7 @@
       "title": "Phoenix, AZ, USA",
       "date": "Feb 26 - Feb 27",
       "location": "Phoenix, AZ",
-      "items": "1,390 Items",
+      "items": "2,480 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-2026110",
       "source": "Ritchie Bros"
@@ -112,23 +78,16 @@
       "title": "Las Vegas, NV, USA",
       "date": "Mar 5 - Mar 6",
       "location": "Las Vegas, NV",
-      "items": "863 Items",
+      "items": "1,210 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-2026134",
       "source": "Ritchie Bros"
     },
     {
-      "title": "Bar None Auction - Sacramento, California",
-      "date": "MARCH 14, 2026",
-      "location": "Sacramento, California",
-      "link": "https://barnoneauction.com/sacramento-equipment-auction-march-2026/",
-      "source": "Bar None Auction"
-    },
-    {
       "title": "California Regional Event, USA",
       "date": "Mar 25 - Mar 26",
-      "location": "Perris, CA",
-      "items": "781 Items",
+      "location": "Dunnigan, CA",
+      "items": "1,240 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026145",
       "source": "Ritchie Bros"
@@ -146,7 +105,7 @@
       "title": "Phoenix, AZ, USA",
       "date": "Apr 8 - Apr 9",
       "location": "Phoenix, AZ",
-      "items": "24 Items",
+      "items": "117 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-2026147",
       "source": "Ritchie Bros"
@@ -154,8 +113,8 @@
     {
       "title": "California Regional Event, USA",
       "date": "May 5 - May 6",
-      "location": "Tulare, CA",
-      "items": "1 Item so far",
+      "location": "Perris, CA",
+      "items": "11 Items",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026352",
       "source": "Ritchie Bros"
@@ -163,8 +122,8 @@
     {
       "title": "California Regional Dealer Dismantler Event, USA",
       "date": "May 7",
-      "location": "Location not found",
-      "items": "Items coming soon!",
+      "location": "Tulare, CA",
+      "items": "1 Item so far",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026174",
       "source": "Ritchie Bros"
@@ -199,11 +158,30 @@
     {
       "title": "California Regional Dealer Dismantler Event, USA",
       "date": "Jun 18",
-      "location": "Perris, CA",
-      "items": "1 Item so far",
+      "location": "Location not found",
+      "items": "Items coming soon!",
       "type": "Timed",
       "link": "https://www.rbauction.com/heavy-equipment-auctions/perris-ca-2026213",
       "source": "Ritchie Bros"
+    },
+    {
+      "title": "Phoenix, AZ, USA",
+      "date": "Jun 30",
+      "location": "Location not found",
+      "items": "Items coming soon!",
+      "type": "Timed",
+      "link": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-2026179",
+      "source": "Ritchie Bros"
+    },
+    {
+      "sale_no": "262",
+      "title": "Equipment Auction (Ring 1)",
+      "date": "03/21/2026 09:00 AM PDT",
+      "location": "Location TBD",
+      "status": "Upcoming",
+      "lots": "15",
+      "link": "https://bid.theauctioncompany.net/auctions/catalog/id/333",
+      "source": "The Auction Company"
     },
     {
       "sale_no": "2242038",
@@ -211,7 +189,7 @@
       "date": "Date not found",
       "location": "Location TBD",
       "status": "N/A",
-      "lots": "3",
+      "lots": "2",
       "link": "https://bid.theauctioncompany.net/auctions/catalog/id/318",
       "source": "The Auction Company"
     }
