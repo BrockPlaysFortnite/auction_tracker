@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-11T08:20:17",
+  "last_updated": "2026-03-11T15:37:52",
   "total_count": 13,
   "auctions": [
     {
@@ -65,7 +65,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026145",
       "auction_type": "Timed",
-      "item_count": 6897,
+      "item_count": 7010,
       "notes": ""
     },
     {
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026151",
       "auction_type": "Timed",
-      "item_count": 95,
+      "item_count": 93,
       "notes": ""
     },
     {
@@ -120,7 +120,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026147",
       "auction_type": "Timed",
-      "item_count": 1517,
+      "item_count": 1601,
       "notes": ""
     },
     {
