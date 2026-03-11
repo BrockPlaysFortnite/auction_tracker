@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auction Tracker</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1 class="header-title">Auction Tracker</h1>
+            <p class="header-subtitle">Brought to you by Sealcoat Solutions and Striping</p>
+        </div>
+        <div class="header-meta">
+            <span id="last-updated" class="last-updated">Loading...</span>
+            <span id="auction-count" class="auction-count"></span>
+        </div>
+    </header>
+
+    <div class="controls">
+        <div class="filter-group">
+            <label for="source-filter" class="filter-label">Source</label>
+            <select id="source-filter" class="filter-select">
+                <option value="all">All Sources</option>
+                <option value="The Auction Company">The Auction Company</option>
+                <option value="Bar None">Bar None</option>
+                <option value="Ritchie Bros">Ritchie Bros</option>
+                <option value="Vantage">Vantage</option>
+                <option value="WCA">WCA</option>
+                <option value="GAC">GAC</option>
+                <option value="JJ Kane">JJ Kane</option>
+            </select>
+        </div>
+        <div class="search-group">
+            <label for="search-input" class="filter-label">Search</label>
+            <input type="text" id="search-input" class="search-input" placeholder="Search auctions...">
+        </div>
+    </div>
+
+    <main id="auctions-container" class="auctions-grid">
+        <div class="loading-state">Loading auction data...</div>
+    </main>
+
+    <footer class="footer">
+        <p>Auction Tracker &mdash; Auto-updated scraper for equipment auctions</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
