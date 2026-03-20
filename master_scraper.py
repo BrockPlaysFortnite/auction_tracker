@@ -31,6 +31,10 @@ SCRAPERS = [
 ]
 
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "docs", "data", "auctions.json")
+WEBSITE_OUTPUT_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "SealcoatSAS Website",
+    "sealcoatsas-website", "public", "data", "auctions.json"
+)
 
 
 def run_all_scrapers() -> list[AuctionListing]:
@@ -92,11 +96,14 @@ def write_json(auctions: list[AuctionListing]) -> None:
         "auctions": [asdict(a) for a in auctions],
     }
 
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
-
-    logging.info(f"Wrote {len(auctions)} auctions to {OUTPUT_PATH}")
+    for path in [OUTPUT_PATH, WEBSITE_OUTPUT_PATH]:
+        try:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(output, f, indent=2, ensure_ascii=False)
+            logging.info(f"Wrote {len(auctions)} auctions to {path}")
+        except OSError as e:
+            logging.warning(f"Could not write to {path}: {e}")
 
 
 def main():
