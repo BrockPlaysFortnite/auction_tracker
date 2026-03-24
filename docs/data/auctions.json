@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-17T23:49:57",
-  "total_count": 11,
+  "last_updated": "2026-03-24T13:02:42",
+  "total_count": 12,
   "auctions": [
     {
       "title": "Heavy Construction Equipment Auction",
@@ -32,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026145",
       "auction_type": "Timed",
-      "item_count": 7309,
+      "item_count": 6042,
       "notes": ""
     },
     {
@@ -54,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026151",
       "auction_type": "Timed",
-      "item_count": 101,
+      "item_count": 94,
       "notes": ""
     },
     {
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026147",
       "auction_type": "Timed",
-      "item_count": 1950,
+      "item_count": 2315,
       "notes": ""
     },
     {
@@ -121,6 +121,17 @@
       "url": "https://barnoneauction.com/sacramento-equipment-auction-april-2026/",
       "auction_type": "Live",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "APRIL 17TH, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-04-17",
+      "date_display": "Friday, April 17, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1815005/lots",
+      "auction_type": "Timed Online",
+      "item_count": 172,
       "notes": ""
     }
   ]
