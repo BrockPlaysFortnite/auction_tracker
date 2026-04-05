@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-03-28T20:01:31",
-  "total_count": 11,
+  "last_updated": "2026-04-05T01:49:46",
+  "total_count": 12,
   "auctions": [
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-04-02",
-      "date_display": "Thursday, April 02, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-04-02/1206",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-04-03",
-      "date_display": "Friday, April 03, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-april-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "Phoenix, AZ, USA",
       "date": "2026-04-08",
@@ -32,7 +10,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026147",
       "auction_type": "Timed",
-      "item_count": 2581,
+      "item_count": 2611,
       "notes": ""
     },
     {
@@ -76,7 +54,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1815005/lots",
       "auction_type": "Timed Online",
-      "item_count": 389,
+      "item_count": 578,
       "notes": ""
     },
     {
@@ -98,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/336",
       "auction_type": "Live",
-      "item_count": 185,
+      "item_count": 260,
       "notes": ""
     },
     {
@@ -109,7 +87,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/334",
       "auction_type": "Online",
-      "item_count": 204,
+      "item_count": 207,
       "notes": ""
     },
     {
@@ -121,6 +99,39 @@
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/335",
       "auction_type": "Online",
       "item_count": 74,
+      "notes": ""
+    },
+    {
+      "title": "TUESDAY, APRIL 28TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
+      "date": "2026-04-28",
+      "date_display": "Tuesday, April 28, 2026",
+      "location": "Colton, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/337",
+      "auction_type": "Online",
+      "item_count": 210,
+      "notes": ""
+    },
+    {
+      "title": "Fontana Equipment Auction",
+      "date": "2026-05-01",
+      "date_display": "Friday, May 01, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/fontana-equipment-auction-may-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Auction, USA",
+      "date": "2026-05-05",
+      "date_display": "May 5 - May 6, 2026",
+      "location": "Perris, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026352",
+      "auction_type": "Timed",
+      "item_count": 3576,
       "notes": ""
     }
   ]
