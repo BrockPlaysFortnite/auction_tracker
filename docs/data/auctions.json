@@ -1,60 +1,16 @@
 {
-  "last_updated": "2026-04-05T01:49:46",
-  "total_count": 12,
+  "last_updated": "2026-04-18T09:26:55",
+  "total_count": 13,
   "auctions": [
     {
-      "title": "Phoenix, AZ, USA",
-      "date": "2026-04-08",
-      "date_display": "Apr 8, 2026",
-      "location": "Phoenix, AZ",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026147",
-      "auction_type": "Timed",
-      "item_count": 2611,
-      "notes": ""
-    },
-    {
-      "title": "JJ Kane - Southern California",
-      "date": "2026-04-09",
-      "date_display": "Thursday, April 09, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-04-09/1216",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "WCA Public Auction",
-      "date": "2026-04-10",
-      "date_display": "Friday, April 10, 2026",
-      "location": "Lake Elsinore, CA",
-      "source": "WCA",
-      "url": "https://wca-online.com/auction-preview/",
-      "auction_type": "Live & Online",
-      "item_count": null,
-      "notes": "Preview: Wednesday April 8th & Thursday April 9th, 2026 - 8:00am to 4:30 pm"
-    },
-    {
-      "title": "Sacramento Equipment Auction",
-      "date": "2026-04-11",
-      "date_display": "Saturday, April 11, 2026",
-      "location": "Sacramento, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/sacramento-equipment-auction-april-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "APRIL 17TH, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-04-17",
-      "date_display": "Friday, April 17, 2026",
+      "title": "MAY 22, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-04-18",
+      "date_display": "Saturday, April 18, 2026",
       "location": "Online - Redlands, CA",
       "source": "GAC",
-      "url": "https://gacbids.com/auctions/1815005/lots",
+      "url": "https://gacbids.com/auctions/1824729/lots",
       "auction_type": "Timed Online",
-      "item_count": 578,
+      "item_count": 35,
       "notes": ""
     },
     {
@@ -76,7 +32,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/336",
       "auction_type": "Live",
-      "item_count": 260,
+      "item_count": 425,
       "notes": ""
     },
     {
@@ -87,7 +43,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/334",
       "auction_type": "Online",
-      "item_count": 207,
+      "item_count": 231,
       "notes": ""
     },
     {
@@ -109,7 +65,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/337",
       "auction_type": "Online",
-      "item_count": 210,
+      "item_count": 555,
       "notes": ""
     },
     {
@@ -131,7 +87,62 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026352",
       "auction_type": "Timed",
-      "item_count": 3576,
+      "item_count": 4224,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Dealer Dismantler Auction, USA",
+      "date": "2026-05-07",
+      "date_display": "May 7, 2026",
+      "location": "Dunnigan, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026174",
+      "auction_type": "Timed",
+      "item_count": 107,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-05-07",
+      "date_display": "Thursday, May 07, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-05-07/1224",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Sacramento Equipment Auction",
+      "date": "2026-05-09",
+      "date_display": "Saturday, May 09, 2026",
+      "location": "Sacramento, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/sacramento-equipment-auction-may-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California",
+      "date": "2026-05-14",
+      "date_display": "Thursday, May 14, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-05-14/1227",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Heavy Construction Equipment Auction",
+      "date": "2026-05-16",
+      "date_display": "Saturday, May 16, 2026",
+      "location": "Perris, CA",
+      "source": "Vantage",
+      "url": "https://vantageauctions.com/auctions/may2026/",
+      "auction_type": "Live",
+      "item_count": null,
       "notes": ""
     }
   ]
