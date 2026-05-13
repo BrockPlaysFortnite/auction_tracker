@@ -1,128 +1,7 @@
 {
-  "last_updated": "2026-04-18T09:26:55",
-  "total_count": 13,
+  "last_updated": "2026-05-13T01:56:56",
+  "total_count": 11,
   "auctions": [
-    {
-      "title": "MAY 22, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-04-18",
-      "date_display": "Saturday, April 18, 2026",
-      "location": "Online - Redlands, CA",
-      "source": "GAC",
-      "url": "https://gacbids.com/auctions/1824729/lots",
-      "auction_type": "Timed Online",
-      "item_count": 35,
-      "notes": ""
-    },
-    {
-      "title": "Woodburn Equipment Auction",
-      "date": "2026-04-24",
-      "date_display": "Friday, April 24, 2026",
-      "location": "Woodburn, Oregon",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/woodburn-equipment-auction-april-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "SATURDAY, APRIL 25TH-Ring 1 Colton: Heavy Equipment, Aerial, Trucks, Trailers, Autos & More. Accepting bids now or bid live Auction day!",
-      "date": "2026-04-25",
-      "date_display": "Saturday, April 25, 2026",
-      "location": "Colton, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/336",
-      "auction_type": "Live",
-      "item_count": 425,
-      "notes": ""
-    },
-    {
-      "title": "MONDAY, APRIL 27TH-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW. **PLEASE NOTE DATE CHANGE**",
-      "date": "2026-04-27",
-      "date_display": "Monday, April 27, 2026",
-      "location": "Madera, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/334",
-      "auction_type": "Online",
-      "item_count": 231,
-      "notes": ""
-    },
-    {
-      "title": "MONDAY, APRIL 27TH-Ring 2.1 Madera: ONLINE ONLY-- Party Rentals Items. Auction begins closing immediately following the Ring 2 auction. BID ONLINE NOW",
-      "date": "2026-04-27",
-      "date_display": "Monday, April 27, 2026",
-      "location": "CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/335",
-      "auction_type": "Online",
-      "item_count": 74,
-      "notes": ""
-    },
-    {
-      "title": "TUESDAY, APRIL 28TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
-      "date": "2026-04-28",
-      "date_display": "Tuesday, April 28, 2026",
-      "location": "Colton, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/337",
-      "auction_type": "Online",
-      "item_count": 555,
-      "notes": ""
-    },
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-05-01",
-      "date_display": "Friday, May 01, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-may-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "California Regional Auction, USA",
-      "date": "2026-05-05",
-      "date_display": "May 5 - May 6, 2026",
-      "location": "Perris, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026352",
-      "auction_type": "Timed",
-      "item_count": 4224,
-      "notes": ""
-    },
-    {
-      "title": "California Regional Dealer Dismantler Auction, USA",
-      "date": "2026-05-07",
-      "date_display": "May 7, 2026",
-      "location": "Dunnigan, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026174",
-      "auction_type": "Timed",
-      "item_count": 107,
-      "notes": ""
-    },
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-05-07",
-      "date_display": "Thursday, May 07, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-05-07/1224",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "Sacramento Equipment Auction",
-      "date": "2026-05-09",
-      "date_display": "Saturday, May 09, 2026",
-      "location": "Sacramento, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/sacramento-equipment-auction-may-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California",
       "date": "2026-05-14",
@@ -144,6 +23,105 @@
       "auction_type": "Live",
       "item_count": null,
       "notes": ""
+    },
+    {
+      "title": "Timed Land Auction",
+      "date": "2026-05-19",
+      "date_display": "Tuesday, May 19, 2026",
+      "location": "Perris, CA",
+      "source": "Vantage",
+      "url": "https://www.proxibid.com/Vantage-Auctions/auction-house/10681",
+      "auction_type": "Online",
+      "item_count": null,
+      "notes": "Online via Proxibid"
+    },
+    {
+      "title": "Phoenix, AZ, USA",
+      "date": "2026-05-21",
+      "date_display": "May 21, 2026",
+      "location": "Phoenix, AZ",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026354",
+      "auction_type": "Timed",
+      "item_count": 2784,
+      "notes": ""
+    },
+    {
+      "title": "MAY 22, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-05-22",
+      "date_display": "Friday, May 22, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1824729/lots",
+      "auction_type": "Timed Online",
+      "item_count": 760,
+      "notes": ""
+    },
+    {
+      "title": "Woodburn Equipment Auction",
+      "date": "2026-05-29",
+      "date_display": "Friday, May 29, 2026",
+      "location": "Woodburn, Oregon",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/woodburn-equipment-auction-may-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-06-04",
+      "date_display": "Thursday, June 04, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-06-04/1233",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Fontana Equipment Auction",
+      "date": "2026-06-05",
+      "date_display": "Friday, June 05, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/fontana-equipment-auction-june-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Las Vegas, NV, USA",
+      "date": "2026-06-05",
+      "date_display": "Jun 5, 2026",
+      "location": "Las Vegas, NV",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026173",
+      "auction_type": "Timed",
+      "item_count": 1917,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California",
+      "date": "2026-06-11",
+      "date_display": "Thursday, June 11, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "WCA Public Auction",
+      "date": "2026-06-12",
+      "date_display": "Friday, June 12, 2026",
+      "location": "Lake Elsinore, CA",
+      "source": "WCA",
+      "url": "https://wca-online.com/auction-preview/",
+      "auction_type": "Live & Online",
+      "item_count": null,
+      "notes": "Preview: Wednesday June 10th & Thursday June 11th, 2026 - 8:00am to 4:30 pm"
     }
   ]
 }
