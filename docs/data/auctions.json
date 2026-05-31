@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T08:01:39",
-  "total_count": 14,
+  "last_updated": "2026-05-31T13:01:30",
+  "total_count": 15,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -43,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026173",
       "auction_type": "Timed",
-      "item_count": 2195,
+      "item_count": 2163,
       "notes": ""
     },
     {
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026189",
       "auction_type": "Timed",
-      "item_count": 4413,
+      "item_count": 4753,
       "notes": ""
     },
     {
@@ -98,7 +98,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026213",
       "auction_type": "Timed",
-      "item_count": 121,
+      "item_count": 94,
       "notes": ""
     },
     {
@@ -109,7 +109,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/338",
       "auction_type": "Live",
-      "item_count": 129,
+      "item_count": 149,
       "notes": ""
     },
     {
@@ -120,7 +120,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/339",
       "auction_type": "Online",
-      "item_count": 134,
+      "item_count": 140,
       "notes": ""
     },
     {
@@ -131,7 +131,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/340",
       "auction_type": "Online",
-      "item_count": 202,
+      "item_count": 300,
       "notes": ""
     },
     {
@@ -153,7 +153,18 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1833452/lots",
       "auction_type": "Timed Online",
-      "item_count": 72,
+      "item_count": 94,
+      "notes": ""
+    },
+    {
+      "title": "Phoenix, AZ, USA",
+      "date": "2026-06-30",
+      "date_display": "Jun 30, 2026",
+      "location": "Phoenix, AZ",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026179",
+      "auction_type": "Timed",
+      "item_count": 1780,
       "notes": ""
     }
   ]
