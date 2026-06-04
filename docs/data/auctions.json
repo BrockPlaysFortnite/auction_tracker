@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-05-31T13:01:30",
+  "last_updated": "2026-06-04T08:02:51",
   "total_count": 15,
   "auctions": [
-    {
-      "title": "Woodburn Equipment Auction",
-      "date": "2026-05-29",
-      "date_display": "Friday, May 29, 2026",
-      "location": "Woodburn, Oregon",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/woodburn-equipment-auction-may-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California Surplus",
       "date": "2026-06-04",
@@ -43,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026173",
       "auction_type": "Timed",
-      "item_count": 2163,
+      "item_count": 2172,
       "notes": ""
     },
     {
@@ -87,7 +76,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026189",
       "auction_type": "Timed",
-      "item_count": 4753,
+      "item_count": 4978,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026213",
       "auction_type": "Timed",
-      "item_count": 94,
+      "item_count": 99,
       "notes": ""
     },
     {
@@ -109,7 +98,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/338",
       "auction_type": "Live",
-      "item_count": 149,
+      "item_count": 176,
       "notes": ""
     },
     {
@@ -120,7 +109,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/339",
       "auction_type": "Online",
-      "item_count": 140,
+      "item_count": 152,
       "notes": ""
     },
     {
@@ -131,7 +120,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/340",
       "auction_type": "Online",
-      "item_count": 300,
+      "item_count": 327,
       "notes": ""
     },
     {
@@ -153,7 +142,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1833452/lots",
       "auction_type": "Timed Online",
-      "item_count": 94,
+      "item_count": 235,
       "notes": ""
     },
     {
@@ -164,7 +153,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026179",
       "auction_type": "Timed",
-      "item_count": 1780,
+      "item_count": 2009,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-07-02",
+      "date_display": "Thursday, July 02, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
       "notes": ""
     }
   ]
