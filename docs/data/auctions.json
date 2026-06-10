@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-06-08T08:02:27",
-  "total_count": 13,
+  "last_updated": "2026-06-10T01:25:15",
+  "total_count": 14,
   "auctions": [
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-06-05",
-      "date_display": "Friday, June 05, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-june-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California",
       "date": "2026-06-11",
@@ -54,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026189",
       "auction_type": "Timed",
-      "item_count": 5117,
+      "item_count": 5095,
       "notes": ""
     },
     {
@@ -65,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026213",
       "auction_type": "Timed",
-      "item_count": 103,
+      "item_count": 102,
       "notes": ""
     },
     {
@@ -76,7 +65,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/338",
       "auction_type": "Live",
-      "item_count": 190,
+      "item_count": 208,
       "notes": ""
     },
     {
@@ -87,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/339",
       "auction_type": "Online",
-      "item_count": 152,
+      "item_count": 144,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/340",
       "auction_type": "Online",
-      "item_count": 388,
+      "item_count": 383,
       "notes": ""
     },
     {
@@ -120,7 +109,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1833452/lots",
       "auction_type": "Timed Online",
-      "item_count": 277,
+      "item_count": 358,
       "notes": ""
     },
     {
@@ -131,7 +120,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026179",
       "auction_type": "Timed",
-      "item_count": 2183,
+      "item_count": 2279,
       "notes": ""
     },
     {
@@ -142,6 +131,28 @@
       "source": "JJ Kane",
       "url": "https://www.jjkane.com/auctions/timed-auction/2026-07-02/1242",
       "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California",
+      "date": "2026-07-09",
+      "date_display": "Thursday, July 09, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Fontana Equipment Auction",
+      "date": "2026-07-10",
+      "date_display": "Friday, July 10, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/fontana-equipment-auction-july-2026/",
+      "auction_type": "Live",
       "item_count": null,
       "notes": ""
     }
