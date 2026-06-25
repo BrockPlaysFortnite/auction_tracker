@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-06-22T08:03:16",
-  "total_count": 11,
+  "last_updated": "2026-06-25T12:16:10",
+  "total_count": 9,
   "auctions": [
-    {
-      "title": "MONDAY, JUNE 22ND-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW.",
-      "date": "2026-06-22",
-      "date_display": "Monday, June 22, 2026",
-      "location": "Madera, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/339",
-      "auction_type": "Online",
-      "item_count": 157,
-      "notes": ""
-    },
-    {
-      "title": "TUESDAY, JUNE 23RD-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
-      "date": "2026-06-23",
-      "date_display": "Tuesday, June 23, 2026",
-      "location": "Colton, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/340",
-      "auction_type": "Online",
-      "item_count": 700,
-      "notes": ""
-    },
     {
       "title": "Woodburn Equipment Auction",
       "date": "2026-06-26",
@@ -43,7 +21,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1833452/lots",
       "auction_type": "Timed Online",
-      "item_count": 604,
+      "item_count": 654,
       "notes": ""
     },
     {
@@ -54,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026179",
       "auction_type": "Timed",
-      "item_count": 2778,
+      "item_count": 2756,
       "notes": ""
     },
     {
@@ -74,7 +52,7 @@
       "date_display": "Thursday, July 09, 2026",
       "location": "Southern California",
       "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-07-09/1244",
       "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
