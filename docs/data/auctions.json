@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T11:57:34",
+  "last_updated": "2026-06-28T08:02:07",
   "total_count": 9,
   "auctions": [
     {
@@ -14,17 +14,6 @@
       "notes": ""
     },
     {
-      "title": "JUNE  26, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-06-26",
-      "date_display": "Friday, June 26, 2026",
-      "location": "Online - Redlands, CA",
-      "source": "GAC",
-      "url": "https://gacbids.com/auctions/1833452/lots",
-      "auction_type": "Timed Online",
-      "item_count": 654,
-      "notes": ""
-    },
-    {
       "title": "Phoenix, AZ, USA",
       "date": "2026-06-30",
       "date_display": "Jun 30, 2026",
@@ -32,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026179",
       "auction_type": "Timed",
-      "item_count": 2421,
+      "item_count": 2362,
       "notes": ""
     },
     {
@@ -100,6 +89,17 @@
       "auction_type": "Online",
       "item_count": null,
       "notes": "Online via Proxibid"
+    },
+    {
+      "title": "JULY 24, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-07-24",
+      "date_display": "Friday, July 24, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1841757/lots",
+      "auction_type": "Timed Online",
+      "item_count": 59,
+      "notes": ""
     }
   ]
 }
