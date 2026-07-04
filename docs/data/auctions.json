@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-07-02T10:01:38",
-  "total_count": 9,
+  "last_updated": "2026-07-04T08:01:05",
+  "total_count": 8,
   "auctions": [
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-07-02",
-      "date_display": "Thursday, July 02, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-07-02/1242",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California",
       "date": "2026-07-09",
@@ -76,7 +65,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1841757/lots",
       "auction_type": "Timed Online",
-      "item_count": 78,
+      "item_count": 87,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1757,
+      "item_count": 1771,
       "notes": ""
     }
   ]
