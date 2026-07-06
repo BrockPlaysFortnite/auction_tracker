@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T08:01:05",
-  "total_count": 8,
+  "last_updated": "2026-07-06T12:24:51",
+  "total_count": 9,
   "auctions": [
     {
       "title": "JJ Kane - Southern California",
@@ -65,7 +65,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1841757/lots",
       "auction_type": "Timed Online",
-      "item_count": 87,
+      "item_count": 106,
       "notes": ""
     },
     {
@@ -87,7 +87,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1771,
+      "item_count": 1772,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Auction, USA",
+      "date": "2026-08-05",
+      "date_display": "Aug 5 - Aug 6, 2026",
+      "location": "Perris, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
+      "auction_type": "Timed",
+      "item_count": 4141,
       "notes": ""
     }
   ]
