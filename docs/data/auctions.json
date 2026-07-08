@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T12:24:51",
-  "total_count": 9,
+  "last_updated": "2026-07-08T09:22:56",
+  "total_count": 12,
   "auctions": [
     {
       "title": "JJ Kane - Southern California",
@@ -65,7 +65,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1841757/lots",
       "auction_type": "Timed Online",
-      "item_count": 106,
+      "item_count": 159,
       "notes": ""
     },
     {
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1772,
+      "item_count": 1760,
       "notes": ""
     },
     {
@@ -98,7 +98,40 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 4141,
+      "item_count": 4376,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-08-06",
+      "date_display": "Thursday, August 06, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-08-06/1249",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "August 21 2026",
+      "date": "2026-08-07",
+      "date_display": "Friday, August 07, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/august-21-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Dealer Dismantler Auction, USA",
+      "date": "2026-08-07",
+      "date_display": "Aug 7, 2026",
+      "location": "Perris, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
+      "auction_type": "Timed",
+      "item_count": 83,
       "notes": ""
     }
   ]
