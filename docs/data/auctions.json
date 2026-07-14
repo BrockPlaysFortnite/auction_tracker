@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-07-12T08:00:40",
-  "total_count": 12,
+  "last_updated": "2026-07-14T10:40:37",
+  "total_count": 11,
   "auctions": [
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-07-10",
-      "date_display": "Friday, July 10, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-july-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "Sacramento Equipment Auction",
-      "date": "2026-07-11",
-      "date_display": "Saturday, July 11, 2026",
-      "location": "Sacramento, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/sacramento-equipment-auction-july-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "Heavy Construction Equipment Auction",
       "date": "2026-07-18",
@@ -54,7 +32,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1841757/lots",
       "auction_type": "Timed Online",
-      "item_count": 291,
+      "item_count": 338,
       "notes": ""
     },
     {
@@ -76,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1600,
+      "item_count": 1709,
       "notes": ""
     },
     {
@@ -87,7 +65,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 4729,
+      "item_count": 4874,
       "notes": ""
     },
     {
@@ -120,7 +98,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 87,
+      "item_count": 90,
       "notes": ""
     },
     {
@@ -131,6 +109,17 @@
       "source": "Bar None",
       "url": "https://barnoneauction.com/sacramento-equipment-auction-august-2026/",
       "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California",
+      "date": "2026-08-13",
+      "date_display": "Thursday, August 13, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-08-13/1252",
+      "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
     }
