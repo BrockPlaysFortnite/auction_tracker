@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-07-20T08:02:47",
-  "total_count": 12,
+  "last_updated": "2026-07-22T08:00:40",
+  "total_count": 11,
   "auctions": [
-    {
-      "title": "Heavy Construction Equipment Auction",
-      "date": "2026-07-18",
-      "date_display": "Saturday, July 18, 2026",
-      "location": "Perris, CA",
-      "source": "Vantage",
-      "url": "https://vantageauctions.com/auctions/july2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "Timed Land Auction",
       "date": "2026-07-21",
@@ -32,7 +21,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1841757/lots",
       "auction_type": "Timed Online",
-      "item_count": 424,
+      "item_count": 491,
       "notes": ""
     },
     {
@@ -54,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1922,
+      "item_count": 1930,
       "notes": ""
     },
     {
@@ -65,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 5417,
+      "item_count": 5532,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 96,
+      "item_count": 97,
       "notes": ""
     },
     {
