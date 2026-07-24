@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T08:00:40",
-  "total_count": 11,
+  "last_updated": "2026-07-24T09:11:30",
+  "total_count": 12,
   "auctions": [
     {
       "title": "Timed Land Auction",
@@ -43,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1930,
+      "item_count": 1904,
       "notes": ""
     },
     {
@@ -54,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 5532,
+      "item_count": 5667,
       "notes": ""
     },
     {
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 97,
+      "item_count": 95,
       "notes": ""
     },
     {
@@ -122,6 +122,17 @@
       "auction_type": "Live & Online",
       "item_count": null,
       "notes": "Preview: Wednesday August 12th & Thursday August 13th, 2026 - 8:00am to 4:30 pm"
+    },
+    {
+      "title": "SATURDAY, AUGUST 22ND-Ring 1 Colton: Heavy Equipment, Aerial, Trucks, Trailers, Autos & More. Accepting bids now or bid live Auction day!",
+      "date": "2026-08-22",
+      "date_display": "Saturday, August 22, 2026",
+      "location": "Colton, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
+      "auction_type": "Live",
+      "item_count": 139,
+      "notes": ""
     }
   ]
 }
