@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-07-24T09:11:30",
-  "total_count": 12,
+  "last_updated": "2026-07-26T08:01:46",
+  "total_count": 14,
   "auctions": [
-    {
-      "title": "Timed Land Auction",
-      "date": "2026-07-21",
-      "date_display": "Tuesday, July 21, 2026",
-      "location": "Perris, CA",
-      "source": "Vantage",
-      "url": "https://www.proxibid.com/Vantage-Auctions/auction-house/10681",
-      "auction_type": "Online",
-      "item_count": null,
-      "notes": "Online via Proxibid"
-    },
-    {
-      "title": "JULY 24, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-07-24",
-      "date_display": "Friday, July 24, 2026",
-      "location": "General Auction Company , 1740 W REDLANDS BLVD , REDLANDS , CALIFORNIA",
-      "source": "GAC",
-      "url": "https://gacbids.com/auctions/1841757/lots",
-      "auction_type": "Timed Online",
-      "item_count": 491,
-      "notes": ""
-    },
     {
       "title": "Woodburn Equipment Auction",
       "date": "2026-07-31",
@@ -43,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1904,
+      "item_count": 1905,
       "notes": ""
     },
     {
@@ -54,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 5667,
+      "item_count": 5693,
       "notes": ""
     },
     {
@@ -83,11 +61,11 @@
       "title": "California Regional Dealer Dismantler Auction, USA",
       "date": "2026-08-07",
       "date_display": "Aug 7, 2026",
-      "location": "Perris, CA",
+      "location": "Dunnigan, CA",
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 95,
+      "item_count": 93,
       "notes": ""
     },
     {
@@ -124,6 +102,17 @@
       "notes": "Preview: Wednesday August 12th & Thursday August 13th, 2026 - 8:00am to 4:30 pm"
     },
     {
+      "title": "AUGUST 21, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-08-21",
+      "date_display": "Friday, August 21, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1848863/lots",
+      "auction_type": "Timed Online",
+      "item_count": 40,
+      "notes": ""
+    },
+    {
       "title": "SATURDAY, AUGUST 22ND-Ring 1 Colton: Heavy Equipment, Aerial, Trucks, Trailers, Autos & More. Accepting bids now or bid live Auction day!",
       "date": "2026-08-22",
       "date_display": "Saturday, August 22, 2026",
@@ -131,7 +120,40 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
       "auction_type": "Live",
-      "item_count": 139,
+      "item_count": 144,
+      "notes": ""
+    },
+    {
+      "title": "MONDAY, AUGUST 24TH-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW.",
+      "date": "2026-08-24",
+      "date_display": "Monday, August 24, 2026",
+      "location": "Madera, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
+      "auction_type": "Online",
+      "item_count": 33,
+      "notes": ""
+    },
+    {
+      "title": "TUESDAY, AUGUST 25TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
+      "date": "2026-08-25",
+      "date_display": "Tuesday, August 25, 2026",
+      "location": "Colton, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
+      "auction_type": "Online",
+      "item_count": 214,
+      "notes": ""
+    },
+    {
+      "title": "Phoenix, AZ, USA",
+      "date": "2026-08-25",
+      "date_display": "Aug 25, 2026",
+      "location": "Phoenix, AZ",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
+      "auction_type": "Timed",
+      "item_count": 1889,
       "notes": ""
     }
   ]
