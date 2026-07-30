@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T08:01:46",
-  "total_count": 14,
+  "last_updated": "2026-07-30T08:01:29",
+  "total_count": 15,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -21,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026407",
       "auction_type": "Timed",
-      "item_count": 1905,
+      "item_count": 1854,
       "notes": ""
     },
     {
@@ -32,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
       "auction_type": "Timed",
-      "item_count": 5693,
+      "item_count": 4735,
       "notes": ""
     },
     {
@@ -65,7 +65,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 93,
+      "item_count": 108,
       "notes": ""
     },
     {
@@ -109,7 +109,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1848863/lots",
       "auction_type": "Timed Online",
-      "item_count": 40,
+      "item_count": 74,
       "notes": ""
     },
     {
@@ -120,7 +120,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
       "auction_type": "Live",
-      "item_count": 144,
+      "item_count": 169,
       "notes": ""
     },
     {
@@ -131,7 +131,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
       "auction_type": "Online",
-      "item_count": 33,
+      "item_count": 69,
       "notes": ""
     },
     {
@@ -142,7 +142,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
       "auction_type": "Online",
-      "item_count": 214,
+      "item_count": 216,
       "notes": ""
     },
     {
@@ -153,7 +153,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
       "auction_type": "Timed",
-      "item_count": 1889,
+      "item_count": 2003,
+      "notes": ""
+    },
+    {
+      "title": "Woodburn Equipment Auction",
+      "date": "2026-08-28",
+      "date_display": "Friday, August 28, 2026",
+      "location": "Woodburn, Oregon",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/woodburn-equipment-auction-august-2026/",
+      "auction_type": "Live",
+      "item_count": null,
       "notes": ""
     }
   ]
