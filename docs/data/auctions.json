@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-08-05T08:02:50",
-  "total_count": 15,
+  "last_updated": "2026-08-07T08:05:53",
+  "total_count": 13,
   "auctions": [
-    {
-      "title": "California Regional Auction, USA",
-      "date": "2026-08-05",
-      "date_display": "Aug 5 - Aug 6, 2026",
-      "location": "Perris, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026212",
-      "auction_type": "Timed",
-      "item_count": 4543,
-      "notes": ""
-    },
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-08-06",
-      "date_display": "Thursday, August 06, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-08-06/1249",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "August 21 2026",
       "date": "2026-08-07",
@@ -39,11 +17,11 @@
       "title": "California Regional Dealer Dismantler Auction, USA",
       "date": "2026-08-07",
       "date_display": "Aug 7, 2026",
-      "location": "Dunnigan, CA",
+      "location": "Perris, CA",
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
       "auction_type": "Timed",
-      "item_count": 110,
+      "item_count": 72,
       "notes": ""
     },
     {
@@ -87,7 +65,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1848863/lots",
       "auction_type": "Timed Online",
-      "item_count": 207,
+      "item_count": 365,
       "notes": ""
     },
     {
@@ -98,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
       "auction_type": "Live",
-      "item_count": 188,
+      "item_count": 235,
       "notes": ""
     },
     {
@@ -109,7 +87,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
       "auction_type": "Online",
-      "item_count": 71,
+      "item_count": 75,
       "notes": ""
     },
     {
@@ -120,7 +98,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
       "auction_type": "Online",
-      "item_count": 271,
+      "item_count": 274,
       "notes": ""
     },
     {
@@ -131,7 +109,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
       "auction_type": "Timed",
-      "item_count": 2293,
+      "item_count": 2512,
       "notes": ""
     },
     {
@@ -151,7 +129,7 @@
       "date_display": "Thursday, September 03, 2026",
       "location": "Southern California",
       "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-09-03/1259",
       "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
