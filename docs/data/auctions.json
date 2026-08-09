@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-08-07T08:05:53",
-  "total_count": 13,
+  "last_updated": "2026-08-09T08:03:10",
+  "total_count": 11,
   "auctions": [
-    {
-      "title": "August 21 2026",
-      "date": "2026-08-07",
-      "date_display": "Friday, August 07, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/august-21-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "California Regional Dealer Dismantler Auction, USA",
-      "date": "2026-08-07",
-      "date_display": "Aug 7, 2026",
-      "location": "Perris, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026204",
-      "auction_type": "Timed",
-      "item_count": 72,
-      "notes": ""
-    },
     {
       "title": "Sacramento Equipment Auction",
       "date": "2026-08-08",
@@ -65,7 +43,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1848863/lots",
       "auction_type": "Timed Online",
-      "item_count": 365,
+      "item_count": 456,
       "notes": ""
     },
     {
@@ -76,7 +54,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
       "auction_type": "Live",
-      "item_count": 235,
+      "item_count": 244,
       "notes": ""
     },
     {
@@ -87,7 +65,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
       "auction_type": "Online",
-      "item_count": 75,
+      "item_count": 81,
       "notes": ""
     },
     {
@@ -98,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
       "auction_type": "Online",
-      "item_count": 274,
+      "item_count": 341,
       "notes": ""
     },
     {
@@ -109,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
       "auction_type": "Timed",
-      "item_count": 2512,
+      "item_count": 2559,
       "notes": ""
     },
     {
