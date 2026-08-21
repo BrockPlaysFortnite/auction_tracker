@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-08-13T08:03:05",
-  "total_count": 12,
+  "last_updated": "2026-08-21T08:03:04",
+  "total_count": 13,
   "auctions": [
-    {
-      "title": "JJ Kane - Southern California",
-      "date": "2026-08-13",
-      "date_display": "Thursday, August 13, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-08-13/1252",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "WCA Public Auction",
-      "date": "2026-08-14",
-      "date_display": "Friday, August 14, 2026",
-      "location": "Lake Elsinore, CA",
-      "source": "WCA",
-      "url": "https://wca-online.com/auction-preview/",
-      "auction_type": "Live & Online",
-      "item_count": null,
-      "notes": "Preview: Wednesday August 12th & Thursday August 13th, 2026 - 8:00am to 4:30 pm"
-    },
     {
       "title": "AUGUST 21, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
       "date": "2026-08-21",
@@ -32,7 +10,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1848863/lots",
       "auction_type": "Timed Online",
-      "item_count": 558,
+      "item_count": 655,
       "notes": ""
     },
     {
@@ -43,7 +21,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
       "auction_type": "Live",
-      "item_count": 268,
+      "item_count": 343,
       "notes": ""
     },
     {
@@ -54,7 +32,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
       "auction_type": "Online",
-      "item_count": 87,
+      "item_count": 86,
       "notes": ""
     },
     {
@@ -65,7 +43,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
       "auction_type": "Online",
-      "item_count": 405,
+      "item_count": 718,
       "notes": ""
     },
     {
@@ -76,7 +54,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
       "auction_type": "Timed",
-      "item_count": 2856,
+      "item_count": 3155,
       "notes": ""
     },
     {
@@ -118,10 +96,21 @@
       "date_display": "Thursday, September 10, 2026",
       "location": "Southern California",
       "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-09-10/1261",
       "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
+    },
+    {
+      "title": "WCA Public Auction",
+      "date": "2026-09-11",
+      "date_display": "Friday, September 11, 2026",
+      "location": "Lake Elsinore, CA",
+      "source": "WCA",
+      "url": "https://wca-online.com/auction-preview/",
+      "auction_type": "Live & Online",
+      "item_count": null,
+      "notes": "Preview: Wednesday September 9th & Thursday September 10th, 2026 - 8:00am to 4:30 pm"
     },
     {
       "title": "Sacramento Equipment Auction",
@@ -132,6 +121,28 @@
       "url": "https://barnoneauction.com/sacramento-equipment-auction-september-2026/",
       "auction_type": "Live",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Auction, USA",
+      "date": "2026-09-15",
+      "date_display": "Sep 15 - Sep 16, 2026",
+      "location": "Perris, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
+      "auction_type": "Timed",
+      "item_count": 4460,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Dealer Dismantler Auction, USA",
+      "date": "2026-09-17",
+      "date_display": "Sep 17, 2026",
+      "location": "Dunnigan, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026240",
+      "auction_type": "Timed",
+      "item_count": 62,
       "notes": ""
     }
   ]
