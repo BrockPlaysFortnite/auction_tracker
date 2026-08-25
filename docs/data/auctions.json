@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-08-21T08:03:04",
-  "total_count": 13,
+  "last_updated": "2026-08-25T08:00:50",
+  "total_count": 11,
   "auctions": [
-    {
-      "title": "AUGUST 21, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-08-21",
-      "date_display": "Friday, August 21, 2026",
-      "location": "General Auction Company , 1740 W REDLANDS BLVD , REDLANDS , CALIFORNIA",
-      "source": "GAC",
-      "url": "https://gacbids.com/auctions/1848863/lots",
-      "auction_type": "Timed Online",
-      "item_count": 655,
-      "notes": ""
-    },
-    {
-      "title": "SATURDAY, AUGUST 22ND-Ring 1 Colton: Heavy Equipment, Aerial, Trucks, Trailers, Autos & More. Accepting bids now or bid live Auction day!",
-      "date": "2026-08-22",
-      "date_display": "Saturday, August 22, 2026",
-      "location": "Colton, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/341",
-      "auction_type": "Live",
-      "item_count": 343,
-      "notes": ""
-    },
-    {
-      "title": "MONDAY, AUGUST 24TH-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW.",
-      "date": "2026-08-24",
-      "date_display": "Monday, August 24, 2026",
-      "location": "Madera, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/342",
-      "auction_type": "Online",
-      "item_count": 86,
-      "notes": ""
-    },
     {
       "title": "TUESDAY, AUGUST 25TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
       "date": "2026-08-25",
@@ -43,7 +10,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/343",
       "auction_type": "Online",
-      "item_count": 718,
+      "item_count": 755,
       "notes": ""
     },
     {
@@ -54,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026210",
       "auction_type": "Timed",
-      "item_count": 3155,
+      "item_count": 2894,
       "notes": ""
     },
     {
@@ -131,7 +98,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
       "auction_type": "Timed",
-      "item_count": 4460,
+      "item_count": 4640,
       "notes": ""
     },
     {
@@ -143,6 +110,17 @@
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026240",
       "auction_type": "Timed",
       "item_count": 62,
+      "notes": ""
+    },
+    {
+      "title": "SEPTEMBER 18, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-09-18",
+      "date_display": "Friday, September 18, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1859764/lots",
+      "auction_type": "Timed Online",
+      "item_count": 42,
       "notes": ""
     }
   ]
