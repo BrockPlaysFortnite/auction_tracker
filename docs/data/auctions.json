@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T08:00:47",
-  "total_count": 12,
+  "last_updated": "2026-08-31T08:00:43",
+  "total_count": 13,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -87,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
       "auction_type": "Timed",
-      "item_count": 5166,
+      "item_count": 5222,
       "notes": ""
     },
     {
@@ -132,6 +132,17 @@
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
       "item_count": 1607,
+      "notes": ""
+    },
+    {
+      "title": "Phoenix, AZ, USA",
+      "date": "2026-09-30",
+      "date_display": "Sep 30, 2026",
+      "location": "Phoenix, AZ",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
+      "auction_type": "Timed",
+      "item_count": 1559,
       "notes": ""
     }
   ]
