@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-08-31T08:00:43",
-  "total_count": 13,
+  "last_updated": "2026-09-04T08:01:16",
+  "total_count": 12,
   "auctions": [
-    {
-      "title": "Woodburn Equipment Auction",
-      "date": "2026-08-28",
-      "date_display": "Friday, August 28, 2026",
-      "location": "Woodburn, Oregon",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/woodburn-equipment-auction-august-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-09-03",
-      "date_display": "Thursday, September 03, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-09-03/1259",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "Fontana Equipment Auction",
       "date": "2026-09-04",
@@ -55,7 +33,7 @@
       "url": "https://wca-online.com/auction-preview/",
       "auction_type": "Live & Online",
       "item_count": null,
-      "notes": "Preview: Wednesday September 9th & Thursday September 10th, 2026 - 8:00am to 4:30 pm"
+      "notes": "Preview: Wednesday September 9th & Thursday September 10th, 2026 - 8:00am to 2:30 pm"
     },
     {
       "title": "Sacramento Equipment Auction",
@@ -87,29 +65,29 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
       "auction_type": "Timed",
-      "item_count": 5222,
+      "item_count": 5572,
       "notes": ""
     },
     {
       "title": "California Regional Dealer Dismantler Auction, USA",
       "date": "2026-09-17",
       "date_display": "Sep 17, 2026",
-      "location": "Dunnigan, CA",
+      "location": "Perris, CA",
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026240",
       "auction_type": "Timed",
-      "item_count": 61,
+      "item_count": 73,
       "notes": ""
     },
     {
       "title": "SEPTEMBER 18, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
       "date": "2026-09-18",
       "date_display": "Friday, September 18, 2026",
-      "location": "Online - Redlands, CA",
+      "location": "General Auction Company , 1740 W REDLANDS BLVD , REDLANDS , CALIFORNIA",
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1859764/lots",
       "auction_type": "Timed Online",
-      "item_count": 102,
+      "item_count": 335,
       "notes": ""
     },
     {
@@ -131,7 +109,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
-      "item_count": 1607,
+      "item_count": 1797,
       "notes": ""
     },
     {
@@ -142,7 +120,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
       "auction_type": "Timed",
-      "item_count": 1559,
+      "item_count": 1880,
+      "notes": ""
+    },
+    {
+      "title": "Fontana Equipment Auction",
+      "date": "2026-10-02",
+      "date_display": "Friday, October 02, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/fontana-equipment-auction-october-2026/",
+      "auction_type": "Live",
+      "item_count": null,
       "notes": ""
     }
   ]
