@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-09-04T08:01:16",
+  "last_updated": "2026-09-12T08:01:49",
   "total_count": 12,
   "auctions": [
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-09-04",
-      "date_display": "Friday, September 04, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-september-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "JJ Kane - Southern California",
-      "date": "2026-09-10",
-      "date_display": "Thursday, September 10, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-09-10/1261",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "WCA Public Auction",
-      "date": "2026-09-11",
-      "date_display": "Friday, September 11, 2026",
-      "location": "Lake Elsinore, CA",
-      "source": "WCA",
-      "url": "https://wca-online.com/auction-preview/",
-      "auction_type": "Live & Online",
-      "item_count": null,
-      "notes": "Preview: Wednesday September 9th & Thursday September 10th, 2026 - 8:00am to 2:30 pm"
-    },
     {
       "title": "Sacramento Equipment Auction",
       "date": "2026-09-12",
@@ -65,18 +32,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
       "auction_type": "Timed",
-      "item_count": 5572,
+      "item_count": 5078,
       "notes": ""
     },
     {
       "title": "California Regional Dealer Dismantler Auction, USA",
       "date": "2026-09-17",
       "date_display": "Sep 17, 2026",
-      "location": "Perris, CA",
+      "location": "Dunnigan, CA",
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026240",
       "auction_type": "Timed",
-      "item_count": 73,
+      "item_count": 74,
       "notes": ""
     },
     {
@@ -87,7 +54,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1859764/lots",
       "auction_type": "Timed Online",
-      "item_count": 335,
+      "item_count": 511,
       "notes": ""
     },
     {
@@ -109,7 +76,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
-      "item_count": 1797,
+      "item_count": 1879,
       "notes": ""
     },
     {
@@ -120,7 +87,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
       "auction_type": "Timed",
-      "item_count": 1880,
+      "item_count": 1946,
       "notes": ""
     },
     {
@@ -130,6 +97,39 @@
       "location": "Fontana, California",
       "source": "Bar None",
       "url": "https://barnoneauction.com/fontana-equipment-auction-october-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-10-08",
+      "date_display": "Thursday, October 08, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-10-08/1267",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "WCA Public Auction",
+      "date": "2026-10-09",
+      "date_display": "Friday, October 09, 2026",
+      "location": "Lake Elsinore, CA",
+      "source": "WCA",
+      "url": "https://wca-online.com/auction-preview/",
+      "auction_type": "Live & Online",
+      "item_count": null,
+      "notes": "Preview: Wednesday October 7th & Thursday October 8th, 2026 - 8:00am to 4:30 pm"
+    },
+    {
+      "title": "Sacramento Equipment Auction",
+      "date": "2026-10-10",
+      "date_display": "Saturday, October 10, 2026",
+      "location": "Sacramento, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/sacramento-equipment-auction-october-2026/",
       "auction_type": "Live",
       "item_count": null,
       "notes": ""
