@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-16T08:00:42",
-  "total_count": 11,
+  "last_updated": "2026-09-18T08:00:43",
+  "total_count": 9,
   "auctions": [
-    {
-      "title": "California Regional Auction, USA",
-      "date": "2026-09-15",
-      "date_display": "Sep 15 - Sep 16, 2026",
-      "location": "Perris, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026246",
-      "auction_type": "Timed",
-      "item_count": 4793,
-      "notes": ""
-    },
-    {
-      "title": "California Regional Dealer Dismantler Auction, USA",
-      "date": "2026-09-17",
-      "date_display": "Sep 17, 2026",
-      "location": "Dunnigan, CA",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026240",
-      "auction_type": "Timed",
-      "item_count": 70,
-      "notes": ""
-    },
     {
       "title": "SEPTEMBER 18, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
       "date": "2026-09-18",
@@ -32,7 +10,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1859764/lots",
       "auction_type": "Timed Online",
-      "item_count": 511,
+      "item_count": 509,
       "notes": ""
     },
     {
@@ -54,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
-      "item_count": 1827,
+      "item_count": 1846,
       "notes": ""
     },
     {
@@ -65,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
       "auction_type": "Timed",
-      "item_count": 2146,
+      "item_count": 2349,
       "notes": ""
     },
     {
