@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-09-18T08:00:43",
+  "last_updated": "2026-09-22T08:00:40",
   "total_count": 9,
   "auctions": [
-    {
-      "title": "SEPTEMBER 18, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
-      "date": "2026-09-18",
-      "date_display": "Friday, September 18, 2026",
-      "location": "General Auction Company , 1740 W REDLANDS BLVD , REDLANDS , CALIFORNIA",
-      "source": "GAC",
-      "url": "https://gacbids.com/auctions/1859764/lots",
-      "auction_type": "Timed Online",
-      "item_count": 509,
-      "notes": ""
-    },
     {
       "title": "Woodburn Equipment Auction",
       "date": "2026-09-25",
@@ -32,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
-      "item_count": 1846,
+      "item_count": 1882,
       "notes": ""
     },
     {
@@ -43,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
       "auction_type": "Timed",
-      "item_count": 2349,
+      "item_count": 2426,
       "notes": ""
     },
     {
@@ -99,6 +88,17 @@
       "url": "https://www.jjkane.com/auctions/timed-auction/2026-10-15/1269",
       "auction_type": "Online Timed Auction",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "OCTOBER 16, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-10-16",
+      "date_display": "Friday, October 16, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1871369/lots",
+      "auction_type": "Timed Online",
+      "item_count": 55,
       "notes": ""
     }
   ]
