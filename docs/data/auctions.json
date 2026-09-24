@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T08:00:40",
-  "total_count": 9,
+  "last_updated": "2026-09-24T08:00:43",
+  "total_count": 11,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -21,7 +21,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
       "auction_type": "Timed",
-      "item_count": 1882,
+      "item_count": 1864,
       "notes": ""
     },
     {
@@ -32,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026241",
       "auction_type": "Timed",
-      "item_count": 2426,
+      "item_count": 2465,
       "notes": ""
     },
     {
@@ -98,7 +98,29 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 55,
+      "item_count": 70,
+      "notes": ""
+    },
+    {
+      "title": "Woodburn Equipment Auction",
+      "date": "2026-10-23",
+      "date_display": "Friday, October 23, 2026",
+      "location": "Woodburn, Oregon",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/woodburn-equipment-auction-october-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "SATURDAY, OCTOBER 24TH-Ring 1 Colton: Heavy Equipment, Aerial, Trucks, Trailers, Autos & More. Accepting bids now or bid live Auction day!",
+      "date": "2026-10-24",
+      "date_display": "Saturday, October 24, 2026",
+      "location": "Colton, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
+      "auction_type": "Live",
+      "item_count": 58,
       "notes": ""
     }
   ]
