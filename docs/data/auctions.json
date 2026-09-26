@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-24T08:00:43",
-  "total_count": 11,
+  "last_updated": "2026-09-26T08:01:55",
+  "total_count": 10,
   "auctions": [
-    {
-      "title": "Woodburn Equipment Auction",
-      "date": "2026-09-25",
-      "date_display": "Friday, September 25, 2026",
-      "location": "Woodburn, Oregon",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/woodburn-equipment-auction-september-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
-    {
-      "title": "Las Vegas, NV, USA",
-      "date": "2026-09-25",
-      "date_display": "Sep 25, 2026",
-      "location": "Las Vegas, NV",
-      "source": "Ritchie Bros",
-      "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026218",
-      "auction_type": "Timed",
-      "item_count": 1864,
-      "notes": ""
-    },
     {
       "title": "Phoenix, AZ, USA",
       "date": "2026-09-30",
@@ -98,7 +76,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 70,
+      "item_count": 98,
       "notes": ""
     },
     {
@@ -120,7 +98,18 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 58,
+      "item_count": 61,
+      "notes": ""
+    },
+    {
+      "title": "MONDAY, OCTOBER 26TH-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW.",
+      "date": "2026-10-26",
+      "date_display": "Monday, October 26, 2026",
+      "location": "Madera, CA",
+      "source": "The Auction Company",
+      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/345",
+      "auction_type": "Online",
+      "item_count": 21,
       "notes": ""
     }
   ]
