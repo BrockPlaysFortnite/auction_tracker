@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-02T08:01:43",
-  "total_count": 11,
+  "last_updated": "2026-10-04T08:03:35",
+  "total_count": 10,
   "auctions": [
-    {
-      "title": "Fontana Equipment Auction",
-      "date": "2026-10-02",
-      "date_display": "Friday, October 02, 2026",
-      "location": "Fontana, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/fontana-equipment-auction-october-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California Surplus",
       "date": "2026-10-08",
@@ -65,7 +54,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 278,
+      "item_count": 345,
       "notes": ""
     },
     {
@@ -87,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 74,
+      "item_count": 81,
       "notes": ""
     },
     {
@@ -109,7 +98,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/346",
       "auction_type": "Online",
-      "item_count": 212,
+      "item_count": 245,
       "notes": ""
     },
     {
