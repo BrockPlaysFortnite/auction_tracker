@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T08:03:35",
-  "total_count": 10,
+  "last_updated": "2026-10-06T09:43:59",
+  "total_count": 12,
   "auctions": [
     {
       "title": "JJ Kane - Southern California Surplus",
@@ -54,7 +54,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 345,
+      "item_count": 352,
       "notes": ""
     },
     {
@@ -109,6 +109,28 @@
       "source": "Bar None",
       "url": "https://barnoneauction.com/bill-nelson-general-engineering-offsite-equipment-auction-october-2026/",
       "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Auction, USA",
+      "date": "2026-11-04",
+      "date_display": "Nov 4 - Nov 5, 2026",
+      "location": "Perris, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
+      "auction_type": "Timed",
+      "item_count": 3385,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California Surplus",
+      "date": "2026-11-05",
+      "date_display": "Thursday, November 05, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions",
+      "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
     }
