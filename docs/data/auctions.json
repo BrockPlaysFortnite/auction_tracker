@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T09:43:59",
-  "total_count": 12,
+  "last_updated": "2026-10-08T08:01:45",
+  "total_count": 14,
   "auctions": [
     {
       "title": "JJ Kane - Southern California Surplus",
@@ -54,7 +54,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 352,
+      "item_count": 397,
       "notes": ""
     },
     {
@@ -76,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 81,
+      "item_count": 122,
       "notes": ""
     },
     {
@@ -98,7 +98,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/346",
       "auction_type": "Online",
-      "item_count": 245,
+      "item_count": 263,
       "notes": ""
     },
     {
@@ -120,7 +120,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 3385,
+      "item_count": 3552,
       "notes": ""
     },
     {
@@ -132,6 +132,28 @@
       "url": "https://www.jjkane.com/auctions",
       "auction_type": "Online Timed Auction",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Fontana Equipment Auction",
+      "date": "2026-11-06",
+      "date_display": "Friday, November 06, 2026",
+      "location": "Fontana, California",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/fontana-equipment-auction-november-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "California Regional Dealer Dismantler Auction, USA",
+      "date": "2026-11-06",
+      "date_display": "Nov 6, 2026",
+      "location": "Tulare, CA",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
+      "auction_type": "Timed",
+      "item_count": 104,
       "notes": ""
     }
   ]
