@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-08T08:01:45",
-  "total_count": 14,
+  "last_updated": "2026-10-10T08:00:43",
+  "total_count": 13,
   "auctions": [
-    {
-      "title": "JJ Kane - Southern California Surplus",
-      "date": "2026-10-08",
-      "date_display": "Thursday, October 08, 2026",
-      "location": "Southern California",
-      "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions/timed-auction/2026-10-08/1267",
-      "auction_type": "Online Timed Auction",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "WCA Public Auction",
       "date": "2026-10-09",
@@ -50,11 +39,11 @@
       "title": "OCTOBER 16, 2026 PUBLIC AUCTION OF MUNICIPALITIES VEHICLES , MISCELLANEOUS AND EQUIPMENT",
       "date": "2026-10-16",
       "date_display": "Friday, October 16, 2026",
-      "location": "Online - Redlands, CA",
+      "location": "General Auction Company , 1740 W REDLANDS BLVD , REDLANDS , CALIFORNIA",
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 397,
+      "item_count": 473,
       "notes": ""
     },
     {
@@ -76,7 +65,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 122,
+      "item_count": 143,
       "notes": ""
     },
     {
@@ -87,7 +76,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/345",
       "auction_type": "Online",
-      "item_count": 22,
+      "item_count": 37,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/346",
       "auction_type": "Online",
-      "item_count": 263,
+      "item_count": 312,
       "notes": ""
     },
     {
@@ -120,7 +109,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 3552,
+      "item_count": 4081,
       "notes": ""
     },
     {
@@ -129,7 +118,7 @@
       "date_display": "Thursday, November 05, 2026",
       "location": "Southern California",
       "source": "JJ Kane",
-      "url": "https://www.jjkane.com/auctions",
+      "url": "https://www.jjkane.com/auctions/timed-auction/2026-11-05/1278",
       "auction_type": "Online Timed Auction",
       "item_count": null,
       "notes": ""
@@ -153,7 +142,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
       "auction_type": "Timed",
-      "item_count": 104,
+      "item_count": 109,
       "notes": ""
     }
   ]
