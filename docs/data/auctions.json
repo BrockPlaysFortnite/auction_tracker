@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T08:00:43",
+  "last_updated": "2026-10-13T02:34:05",
   "total_count": 13,
   "auctions": [
-    {
-      "title": "WCA Public Auction",
-      "date": "2026-10-09",
-      "date_display": "Friday, October 09, 2026",
-      "location": "Lake Elsinore, CA",
-      "source": "WCA",
-      "url": "https://wca-online.com/auction-preview/",
-      "auction_type": "Live & Online",
-      "item_count": null,
-      "notes": "Preview: Wednesday October 7th & Thursday October 8th, 2026 - 8:00am to 4:30 pm"
-    },
-    {
-      "title": "Sacramento Equipment Auction",
-      "date": "2026-10-10",
-      "date_display": "Saturday, October 10, 2026",
-      "location": "Sacramento, California",
-      "source": "Bar None",
-      "url": "https://barnoneauction.com/sacramento-equipment-auction-october-2026/",
-      "auction_type": "Live",
-      "item_count": null,
-      "notes": ""
-    },
     {
       "title": "JJ Kane - Southern California",
       "date": "2026-10-15",
@@ -43,7 +21,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 473,
+      "item_count": 479,
       "notes": ""
     },
     {
@@ -65,7 +43,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 143,
+      "item_count": 151,
       "notes": ""
     },
     {
@@ -76,7 +54,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/345",
       "auction_type": "Online",
-      "item_count": 37,
+      "item_count": 60,
       "notes": ""
     },
     {
@@ -102,6 +80,17 @@
       "notes": ""
     },
     {
+      "title": "WCA Public Auction",
+      "date": "2026-10-30",
+      "date_display": "Friday, October 30, 2026",
+      "location": "Lake Elsinore, CA",
+      "source": "WCA",
+      "url": "https://wca-online.com/auction-preview/",
+      "auction_type": "Live & Online",
+      "item_count": null,
+      "notes": "Preview: Wednesday October 28th & Thursday October 29th, 2026 - 8:00am to 2:30 pm"
+    },
+    {
       "title": "California Regional Auction, USA",
       "date": "2026-11-04",
       "date_display": "Nov 4 - Nov 5, 2026",
@@ -109,7 +98,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 4081,
+      "item_count": 4166,
       "notes": ""
     },
     {
@@ -142,7 +131,18 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
       "auction_type": "Timed",
-      "item_count": 109,
+      "item_count": 111,
+      "notes": ""
+    },
+    {
+      "title": "JJ Kane - Southern California",
+      "date": "2026-11-12",
+      "date_display": "Thursday, November 12, 2026",
+      "location": "Southern California",
+      "source": "JJ Kane",
+      "url": "https://www.jjkane.com/auctions",
+      "auction_type": "Online Timed Auction",
+      "item_count": null,
       "notes": ""
     }
   ]
