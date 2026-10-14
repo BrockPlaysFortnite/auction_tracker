@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T02:34:05",
+  "last_updated": "2026-10-14T08:00:43",
   "total_count": 13,
   "auctions": [
     {
@@ -21,7 +21,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1871369/lots",
       "auction_type": "Timed Online",
-      "item_count": 479,
+      "item_count": 493,
       "notes": ""
     },
     {
@@ -43,7 +43,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 151,
+      "item_count": 159,
       "notes": ""
     },
     {
@@ -98,7 +98,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 4166,
+      "item_count": 4260,
       "notes": ""
     },
     {
