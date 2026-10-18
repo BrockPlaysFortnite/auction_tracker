@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T19:32:10",
-  "total_count": 13,
+  "last_updated": "2026-10-18T08:12:16",
+  "total_count": 14,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -135,15 +135,26 @@
       "notes": ""
     },
     {
-      "title": "Heavy Construction Equipment Auction",
-      "date": "2026-11-14",
-      "date_display": "Saturday, November 14, 2026",
+      "title": "Phoenix, AZ, USA",
+      "date": "2026-11-17",
+      "date_display": "Nov 17, 2026",
+      "location": "Phoenix, AZ",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026355",
+      "auction_type": "Timed",
+      "item_count": 1718,
+      "notes": ""
+    },
+    {
+      "title": "Timed Land Auction",
+      "date": "2026-11-17",
+      "date_display": "Tuesday, November 17, 2026",
       "location": "Perris, CA",
       "source": "Vantage",
       "url": "https://vantageauctions.com/auctions/nov2026/",
-      "auction_type": "Live",
+      "auction_type": "Online",
       "item_count": null,
-      "notes": ""
+      "notes": "Online via Proxibid"
     }
   ]
 }
