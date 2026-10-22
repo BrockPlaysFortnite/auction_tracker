@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T08:02:37",
-  "total_count": 14,
+  "last_updated": "2026-10-22T08:00:43",
+  "total_count": 16,
   "auctions": [
     {
       "title": "Woodburn Equipment Auction",
@@ -21,7 +21,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/344",
       "auction_type": "Live",
-      "item_count": 212,
+      "item_count": 215,
       "notes": ""
     },
     {
@@ -32,7 +32,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/345",
       "auction_type": "Online",
-      "item_count": 66,
+      "item_count": 65,
       "notes": ""
     },
     {
@@ -43,7 +43,7 @@
       "source": "The Auction Company",
       "url": "https://bid.theauctioncompany.net/auctions/catalog/id/346",
       "auction_type": "Online",
-      "item_count": 350,
+      "item_count": 512,
       "notes": ""
     },
     {
@@ -76,7 +76,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 4837,
+      "item_count": 4957,
       "notes": ""
     },
     {
@@ -109,7 +109,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
       "auction_type": "Timed",
-      "item_count": 79,
+      "item_count": 82,
       "notes": ""
     },
     {
@@ -121,6 +121,17 @@
       "url": "https://www.jjkane.com/auctions/timed-auction/2026-11-12/1280",
       "auction_type": "Online Timed Auction",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Nov 13, 2026, PUBLIC AUCTION OF MUNICIPALITIES VEHICLES, MISCELLANEOUS AND EQUIPMENT",
+      "date": "2026-11-13",
+      "date_display": "Friday, November 13, 2026",
+      "location": "Online - Redlands, CA",
+      "source": "GAC",
+      "url": "https://gacbids.com/auctions/1881093/lots",
+      "auction_type": "Timed Online",
+      "item_count": 55,
       "notes": ""
     },
     {
@@ -142,7 +153,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026355",
       "auction_type": "Timed",
-      "item_count": 1737,
+      "item_count": 1860,
       "notes": ""
     },
     {
@@ -155,6 +166,17 @@
       "auction_type": "Online",
       "item_count": null,
       "notes": "Online via Proxibid"
+    },
+    {
+      "title": "Woodburn Equipment Auction",
+      "date": "2026-11-20",
+      "date_display": "Friday, November 20, 2026",
+      "location": "Woodburn, Oregon",
+      "source": "Bar None",
+      "url": "https://barnoneauction.com/woodburn-equipment-auction-november-2026/",
+      "auction_type": "Live",
+      "item_count": null,
+      "notes": ""
     }
   ]
 }
