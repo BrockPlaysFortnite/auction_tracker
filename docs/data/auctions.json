@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-24T22:12:07",
+  "last_updated": "2026-10-26T12:02:29",
   "total_count": 14,
   "auctions": [
-    {
-      "title": "MONDAY, OCTOBER 26TH-Ring 2 MADERA: ONLINE ONLY--Heavy Equipment, Farm Equipment, Trucks, Trailers, Containers, Attachments, Buckets, Tools, Lawn & Garden, & Much Much More. Auction begins closing at 10AM. BID ONLINE NOW.",
-      "date": "2026-10-26",
-      "date_display": "Monday, October 26, 2026",
-      "location": "Madera, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/345",
-      "auction_type": "Online",
-      "item_count": 61,
-      "notes": ""
-    },
     {
       "title": "TUESDAY, OCTOBER 27TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
       "date": "2026-10-27",
@@ -54,7 +43,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 5159,
+      "item_count": 5139,
       "notes": ""
     },
     {
@@ -87,7 +76,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
       "auction_type": "Timed",
-      "item_count": 86,
+      "item_count": 87,
       "notes": ""
     },
     {
@@ -109,7 +98,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1881093/lots",
       "auction_type": "Timed Online",
-      "item_count": 77,
+      "item_count": 136,
       "notes": ""
     },
     {
@@ -131,7 +120,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026355",
       "auction_type": "Timed",
-      "item_count": 1901,
+      "item_count": 1921,
       "notes": ""
     },
     {
@@ -154,6 +143,17 @@
       "url": "https://barnoneauction.com/woodburn-equipment-auction-november-2026/",
       "auction_type": "Live",
       "item_count": null,
+      "notes": ""
+    },
+    {
+      "title": "Las Vegas, NV, USA",
+      "date": "2026-11-24",
+      "date_display": "Nov 24, 2026",
+      "location": "Las Vegas, NV",
+      "source": "Ritchie Bros",
+      "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026263",
+      "auction_type": "Timed",
+      "item_count": 1955,
       "notes": ""
     }
   ]
