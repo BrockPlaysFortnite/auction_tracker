@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-26T12:02:29",
-  "total_count": 14,
+  "last_updated": "2026-10-28T08:00:57",
+  "total_count": 13,
   "auctions": [
-    {
-      "title": "TUESDAY, OCTOBER 27TH-Ring 3 Colton: ONLINE ONLY-- Containers, Many \"Does Not Run\" items, Attachments, Buckets, Small Contractor's Equipment & Much More. Auction begins closing at 10AM. BID ONLINE NOW",
-      "date": "2026-10-27",
-      "date_display": "Tuesday, October 27, 2026",
-      "location": "Colton, CA",
-      "source": "The Auction Company",
-      "url": "https://bid.theauctioncompany.net/auctions/catalog/id/346",
-      "auction_type": "Online",
-      "item_count": 601,
-      "notes": ""
-    },
     {
       "title": "Bill Nelson General Engineering Offsite Equipment Auction",
       "date": "2026-10-30",
@@ -43,7 +32,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-auction-usa-2026353",
       "auction_type": "Timed",
-      "item_count": 5139,
+      "item_count": 4581,
       "notes": ""
     },
     {
@@ -76,7 +65,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/california-regional-dealer-dismantler-auction-usa-2026248",
       "auction_type": "Timed",
-      "item_count": 87,
+      "item_count": 90,
       "notes": ""
     },
     {
@@ -98,7 +87,7 @@
       "source": "GAC",
       "url": "https://gacbids.com/auctions/1881093/lots",
       "auction_type": "Timed Online",
-      "item_count": 136,
+      "item_count": 190,
       "notes": ""
     },
     {
@@ -120,7 +109,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/phoenix-az-usa-2026355",
       "auction_type": "Timed",
-      "item_count": 1921,
+      "item_count": 2012,
       "notes": ""
     },
     {
@@ -153,7 +142,7 @@
       "source": "Ritchie Bros",
       "url": "https://www.rbauction.com/heavy-equipment-auctions/las-vegas-nv-usa-2026263",
       "auction_type": "Timed",
-      "item_count": 1955,
+      "item_count": 2019,
       "notes": ""
     }
   ]
